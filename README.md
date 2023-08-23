@@ -22,7 +22,7 @@ If you are developing a production application, we recommend updating the config
    },
 ```
 
-mandando pra outra brach
+isso vai pra master
 
 
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
